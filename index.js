@@ -20,7 +20,7 @@ const _student = Student.create(a = {
     },
     "maritalStatus": "single",
     "nextOfKin": {
-        "name": "Agnes Makumbe",
+        "name": "Dona Makumbe",
         "relation": "Mother",
         "address": {
             "street": "2995, joeop Street, Avondale",
