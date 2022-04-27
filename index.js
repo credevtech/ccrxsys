@@ -6,12 +6,12 @@ mongoose.connect("mongodb://localhost/starterdb", () => {
 });
 
 const _student = Student.create(a = {
-    "dateOfBirth": "11/07/1997",
+    "dateOfBirth": "11/07/2002",
     "email": "tafadzwa@credevtech.com",
     "phone": "0782615805",
     "foreNames": "Tafadzwa",
     "lastName": "Makumbe",
-    "idNumber": "832001627T77",
+    "idNumber": "887584875K97",
     "gender": "male",
     "address": {
         "street": "2995, Northwood",
@@ -23,11 +23,11 @@ const _student = Student.create(a = {
         "name": "Agnes Makumbe",
         "relation": "Mother",
         "address": {
-            "street": "2995, Northwood",
-            "city": "Chivhu",
+            "street": "2995, joeop Street, Avondale",
+            "city": "Harare",
             "country": "Zimbabwe"
         },
-        "phone":"0773370911"
+        "phone":"0773858588"
 
     },
     "olevels": {
